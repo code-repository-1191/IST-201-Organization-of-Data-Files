@@ -1,0 +1,36 @@
+ID,Name,Description,Capacity,Category ID,Street,City,State,Zip,Region
+101,Blue Oasis,Resort,250,2,15 Desert Rd,Albany,NY,10753,1
+102,Queen's Ballroom,Recreation,300,4,5458 Chair St,New York,NY,10256,1
+103,Desert Resort,Resort,650,2,65 Flower Ln,Baltimore,MD,48752,3
+104,Pine Cabin,Recreation,6,2,12 Forest Rd,Albany,NY,10232,1
+105,East Hotel,Hotel,400,4,1478 Orange St,Boston,MA,26650,2
+106,Sunset Farm,Recreation,90,2,25 Acorn Rd,Albany,NY,10031,1
+107,East Apartments,Home,800,1,565 Coastal Ave,Baltimore,MD,48852,3
+108,Luxary Condos,Home,750,1,5265 Pasta St,Baltimore,MD,48569,3
+109,West Storage,Industrial,1500,4,5554 Apple St,Boston,MA,26565,2
+110,Factory #65165,Industrial,1100,3,789 Metal Rd,New York,NY,10254,1
+111,Vallyhill Resort,Resort,900,2,89 Vally Rd,Albany,NY,10024,1
+112,Coastal Hotel,Hotel,60,4,78 Ocean Rd,Montauk,NY,10478,1
+113,Old Town Inn,Hotel,55,4,32 Sky Ave,Montauk,NY,10323,1
+114,North Shipyard,Industrial,1450,3,9632 Boat St,Boston,MA,26456,2
+115,High View Apartments,Home,120,1,7452 Lion Ave,New York,NY,10245,1
+116,Deerwood Inn,Hotel,58,3,280 Friend St.,Boston,MA,2114,2
+117,French Market Inn,Hotel,600,3,10 Huntington Avenue,Boston,MA,2115,2
+118,Blue Roof Inn ,Hotel,250,3,99 Copley P.ace,Boston,MA,2116,2
+119,Best Place Inn,Hotel,500,3,5930 Best St.,Boston,MA,2117,2
+120,Hotel Indigo,Hotel,750,3,100 Market St.,Boston,MA,2118,2
+121,Yoda Resort,Hotel,900,3,3390 Elm St.,Boston,MA,2119,2
+122,Red Dog Inn,Hotel,50,3,65 Seaport Blvd,Boston,MA,2120,2
+123,Resort International,Resort,800,2,125 Brookline Avenue,Boston,MA,2121,2
+124,Oasis Falls,Resort,1000,2,240 Tremont Street,Boston,MA,2122,2
+125,Historic Hamlet,Resort,120,2,1 Faneuil Hall Sq,Boston,MA,2123,2
+126,Yards,Recreation,150,2,1641 Randall Drive,Buffalo,NY,10001,1
+127,Cabin,Home,6,1,1660 Ocello Street,Garden City,NY,11530,1
+128,Heights,High Rise,300,4,2088 Dancing Dove Lane,Brighton,NY,14623,1
+129,Peaches,Home,10,1,2263 Prospect Valley Road,Rancho,NY,15677,1
+130,Sello,Recreation,700,2,387 Hamara Ln ,Baltimore,MD,28897,3
+131,Yats,Recreation,110,2,355 O'kit ,Baltimore,MD,27729,3
+132,Wake World ,Industrial,1000,3,45 Nevada St.,Buffalo,NY,12388,1
+133,Cold Shallows,Industrial,800,3,787 Maxxen St.,Baltimore,MD,13889,3
+134,Yallah Place,Home,8,1,24 Camel St.,Garden City,NY,11201,1
+135,Zain Garden,Recreation,100,4,583 Dabouq Sq,Baltimore,MD,28392,3

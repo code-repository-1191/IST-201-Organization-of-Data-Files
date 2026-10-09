@@ -1,0 +1,36 @@
+id,mov_title,mov_year,mov_time,mov_lang,mov_dt_rel,mov_rel_country,gen_id,dir_id
+901,Vertigo,1958,128,English,1958-08-24,UK,1010,201
+902,The Innocents,1961,100,English,1962-02-19,SW,1008,202
+903,Lawrence of Arabia,1962,216,English,1962-12-11,UK,1002,203
+904,The Deer Hunter,1978,183,English,1979-03-08,UK,1013,204
+905,Amadeus,1984,160,English,1985-01-07,UK,1007,205
+906,Blade Runner,1982,117,English,1982-09-09,UK,1012,206
+907,Eyes Wide Shut,1999,159,English,NULL,UK,1010,207
+908,The Usual Suspects,1995,106,English,1995-08-25,UK,1006,208
+909,Chinatown,1974,130,English,1974-08-09,UK,1010,209
+910,Boogie Nights,1997,155,English,1998-02-16,UK,1007,210
+911,Annie Hall,1977,93,English,1977-04-20,USA,1005,211
+912,Princess Mononoke,1997,134,Japanese,2001-10-19,UK,1003,212
+913,The Shawshank Redemption,1994,142,English,1995-02-17,UK,1006,213
+914,American Beauty,1999,122,English,NULL,UK,1011,214
+915,Titanic,1997,194,English,1998-01-23,UK,1011,215
+916,Good Will Hunting,1997,126,English,1998-06-03,UK,1007,216
+917,Deliverance,1972,109,English,1982-10-05,UK,1002,217
+918,Trainspotting,1996,94,English,1996-02-23,UK,1007,218
+919,The Prestige,2006,130,English,2006-11-10,UK,1012,219
+920,Donnie Darko,2001,113,English,NULL,UK,1002,220
+921,Slumdog Millionaire,2008,120,English,2009-01-09,UK,1007,218
+922,Aliens,1986,137,English,1986-08-29,UK,1001,215
+923,Beyond the Sea,2004,118,English,2004-11-26,UK,1009,221
+924,Avatar,2009,162,English,2009-12-17,UK,1002,215
+926,Seven Samurai,1954,207,Japanese,1954-04-26,JP,1007,224
+927,Spirited Away,2001,125,Japanese,2003-09-12,UK,1007,225
+928,Back to the Future,1985,116,English,1985-12-04,UK,1010,212
+925,Braveheart,1995,178,English,1995-09-08,UK,1007,226
+929,Swept Away ,1974,114,Italian,1974-12-19,IT,1005,227
+930,American Splendor,2003,101,English,2003-08-15,USA,1005,228
+931,K-19: The Widowmaker,2002,138,English,2002-07-19,USA,1012,229
+932,Wayne's World,1992,95,English,1992-05-14,USA,1005,230
+933,The Hurt Locker ,2008,131,English,2009-06-26,USA,1012,229
+934,The Matrix,1999,136,English,1999-03-31,USA,1012,231
+935,Selma,2014,128,English,2014-12-25,USA,1007,232

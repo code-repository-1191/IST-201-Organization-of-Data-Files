@@ -1,0 +1,49 @@
+DROP DATABASE if exists DerkMusicFull;
+CREATE DATABASE DerkMusicFull;
+Use derkmusicfull;
+
+CREATE TABLE artists
+(
+	id  INT  NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	artist VARCHAR(40) NOT NULL,
+    age Int,
+	hometown VARCHAR(30)
+);
+ 
+CREATE TABLE album
+(
+	id  INT  NOT NULL PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(45),
+	artist_id INT,
+	CONSTRAINT fk_artist_album FOREIGN KEY(artist_id) REFERENCES artists(id)
+	ON DELETE CASCADE
+	ON UPDATE CASCADE
+);
+
+CREATE TABLE genre
+(
+	id INTEGER NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	gen VARCHAR(25) NOT NULL
+);
+
+-- Create Movie Table 
+CREATE TABLE songs
+(
+	id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	song VARCHAR(40) NOT NULL,
+	artist_id INT NOT NULL,
+	album_id INT,
+	genre_id INT NOT NULL,
+	duration DECIMAL(3,2) NOT NULL,
+	release_date INT NOT NULL,
+	CONSTRAINT fk_artist_music FOREIGN KEY (artist_id) REFERENCES artists (id)
+	ON DELETE CASCADE
+	ON UPDATE CASCADE,
+    CONSTRAINT fk_album_music FOREIGN KEY (album_id) REFERENCES album (id)
+	ON DELETE CASCADE
+	ON UPDATE CASCADE,
+	CONSTRAINT fk_genre_music FOREIGN KEY (genre_id) REFERENCES genre (id)
+	ON DELETE CASCADE
+	ON UPDATE CASCADE
+);
+
